@@ -123,7 +123,6 @@ print(f"Total mentions: {len(matches)}")
 print(matches[:10]) # Show the first 10 matches found
 
 # Count the number lines containing JavaScript, javascript or Javascript
-
 # Count the number lines containing Java and not JavaScript
 
 # optimised
