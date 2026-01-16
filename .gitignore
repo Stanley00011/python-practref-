@@ -1,2 +1,3 @@
 git rm -r --cached flask_project/
 git rm -r --cached flask_project/nfpv/
+pyvenv.cfg
